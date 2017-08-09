@@ -4,3 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
+{% for page in site.pages %}
+  {{ page.title }}
+{% endfor %}
