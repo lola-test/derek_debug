@@ -16,7 +16,7 @@
 title: My blog
 email: hello@derekbaker.co
 description: Derek Baker's journey into code
-baseurl: "https://lola-test.github.io/derek_debug/" # the subpath of your site, e.g. /blog
+baseurl: "/derek_debug" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: backslashbaker
 github_username:  backslashbaker
