@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Hello World"
 date:   2017-07-30 16:03:18 +0100
 ---
